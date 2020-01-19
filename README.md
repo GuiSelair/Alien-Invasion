@@ -8,7 +8,7 @@ Jogo desenvolvido em Python utilizando a biblioteca PyGame.
 
 Com auxilio do livro: Curso Intensivo de Python: Uma introdução prática e baseada em projetos à programação (Python Crash Course), foi desenvolvido o jogo Alien Invasion. Com o desenvolvimento do game foi ensino o uso de bibliotecas externas, como PyGame, e a introdução a programação orientada a objeto.
 
-### Prerequisitos
+### Pre-requisitos
 
 Para a execução do game será necessario ter instalado em sua máquina:
 - Python 3.6 ou superior
@@ -40,5 +40,5 @@ python3 alien_invasion.py
 
 ## Autor
 
-* **Guilherme Selair** - *Initial work* - [GuiSelair](https://github.com/GuiSelair)
+* **Guilherme Selair** - [GuiSelair](https://github.com/GuiSelair)
 
